@@ -71,9 +71,6 @@
 .ti-settings:before {
 	content: "\e60f";
 }
-.ti-search:before {
-	content: "\e610";
-}
 .ti-zoom-in:before {
 	content: "\e611";
 }
@@ -115,9 +112,6 @@
 }
 .ti-paint-roller:before {
 	content: "\e61e";
-}
-.ti-paint-bucket:before {
-	content: "\e61f";
 }
 .ti-na:before {
 	content: "\e620";
@@ -214,9 +208,6 @@
 }
 .ti-exchange-vertical:before {
 	content: "\e63f";
-}
-.ti-desktop:before {
-	content: "\e640";
 }
 .ti-cup:before {
 	content: "\e641";
@@ -647,8 +638,8 @@
 .ti-video-camera:before {
 	content: "\e6cf";
 }
-.ti-vector:before {
-	content: "\e6d0";
+.ti-alarm-clock:before {
+	content: "\e6c6";
 }
 .ti-themify-logo:before {
 	content: "\e6d1";
