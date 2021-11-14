@@ -97,7 +97,6 @@
 .page-home .caption-header {
   position: relative;
   display: flex;
-  flex-wrap: wrap;
   flex-direction: column;
   justify-content: center;
   align-items: center;
