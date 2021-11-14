@@ -516,7 +516,7 @@
   background-color: #EF3724;
 }
 
-.theme-red .timeline li:first-child::before {
+.theme-red .timeline li:first-child::before, .couleur::before {
   background-color: #EF3724;
   box-shadow: 0 0 0 2px #EF3724;
 }
@@ -547,7 +547,7 @@
   background-color: #2960f7;
 }
 
-.theme-blue .timeline li:first-child::before {
+.theme-blue .timeline li:first-child::before, .couleur::before {
   background-color: #2960f7;
   box-shadow: 0 0 0 2px #2960f7;
 }
@@ -578,7 +578,7 @@
   border-color: #8cc63f;
 }
 
-.theme-green .timeline li:first-child .title {
+.theme-green .timeline li:first-child .title, .couleur::before {
   background-color: #8cc63f;
 }
 
@@ -617,7 +617,7 @@
   background-color: #fd7e14;
 }
 
-.theme-orange .timeline li:first-child::before {
+.theme-orange .timeline li:first-child::before, .couleur::before {
   background-color: #fd7e14;
   box-shadow: 0 0 0 2px #fd7e14;
 }
@@ -648,7 +648,7 @@
   border-color: #ffcd01;
 }
 
-.theme-yellow .timeline li:first-child .title {
+.theme-yellow .timeline li:first-child .title, .couleur::before {
   background-color: #ffcd01;
 }
 
